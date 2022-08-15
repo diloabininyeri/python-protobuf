@@ -1,4 +1,4 @@
->Protocol Buffers python exemple client and server 
+>Protocol Buffers python example client and server 
 ### What is gRPC?
 Quoting the official documentation-
 
