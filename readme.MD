@@ -28,6 +28,10 @@ generates data access classes that make it easier to use them programmatically
 Protobuf are defined in .proto files. It is easy to define them. 
 
 
+>requirements
+```console 
+ install grpcio
+```
 ### Test
 unary client
 ```console
