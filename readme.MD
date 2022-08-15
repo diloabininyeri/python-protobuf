@@ -30,7 +30,7 @@ Protobuf are defined in .proto files. It is easy to define them.
 
 >requirements
 ```console 
- install grpcio
+ pip install grpcio
 ```
 ### Test
 unary client
